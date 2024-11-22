@@ -11,7 +11,7 @@
 <br><br>
 
 - :school: I am a `Junior` at [Faculty of Computers & Informations](https://ci.tanta.edu.eg/en/) at [Tanta University](https://tanta.edu.eg/).
-- -:student: I’m currently learning `Computer Science`.
+- :student: I’m currently learning `Computer Science`.
 - :technologist: `I'm React Front End Developer`.
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`.
 <br>
