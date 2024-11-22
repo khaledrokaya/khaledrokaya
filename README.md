@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Khaled Mostafa<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+![image](https://github.com/user-attachments/assets/8683c2a4-ebf8-4e1a-ba0c-947b2d0071a3)<h1 align="center">Hi , I'm Khaled Mostafa<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=React+Front+End+Developer;Computer+Science+Student;Always+learning+new+things"></a>
 </p>
@@ -89,7 +89,7 @@
 
 </details>
 
-<details><summary><h3>💻 Contribution Stats</h3></summary>
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 ----
 ![KhaledRokaya's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khaledrokaya)
