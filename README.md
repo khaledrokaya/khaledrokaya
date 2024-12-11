@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi , I'm Khaled Mostafa<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=React+Front+End+Developer;Computer+Science+Student;Always+learning+new+things"></a>
@@ -85,7 +86,9 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khaledrokaya&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=khaledrokaya&show_icons=true&theme=tokyonight" alt="KhaledRokaya's streak stats"/>
+</p>
 
 </details>
 
@@ -98,9 +101,8 @@
 
 ----
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="KhaledRokaya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=khaledrokaya&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledrokaya&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+	   <img src="https://github-readme-stats.vercel.app/api?username=khaledrokaya&show_icons=true&theme=tokyonight" alt="KhaledRokaya's streak stats"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledrokaya&layout=compact&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
