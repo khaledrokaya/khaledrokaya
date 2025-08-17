@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Khaled Mostafa<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=React+&+Angular+Front+End+Developer;Computer+Science+Student;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=25&pause=1000&color=C8BE25&center=true&vCenter=true&width=600&height=100&lines=React+%26+Angular+Front-End+Developer;Computer+Science+Student;Always+learning+new+things"></a>
 </p>
 	
 ## <picture><img src = "https://github.com/khaledrokaya/khaledrokaya/blob/main/Images/about_me.gif?raw=trueImages/about_me.gif?raw=true" width = 50px></picture> About me
@@ -40,47 +40,66 @@
 
 ### <picture> <img src = "https://github.com/khaledrokaya/khaledrokaya/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=flat&logo=html5&logoColor=white"></a>   
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
+  </a>
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat&logo=css3&logoColor=white"></a> 
+  <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white">
+  </a>
   &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=React&logoColor=black"></a>
-	 &emsp;
+  <a href="https://react.dev/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black">
+  </a>
+  &emsp;
   <a href="https://angular.dev/" target="_blank">
-    <img alt="Angular" src="https://img.shields.io/badge/angular-%2361DAFB.svg?style=rounded&logo=Angular&logoColor=red"></a>
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white">
+  </a>
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black"></a>
-   &emsp; 
-  <a href="https://www.w3.org/typescript/" target="_blank"> 
-   <img alt="typescript" src="https://img.shields.io/badge/typescript%20-%23E34F26.svg?style=flat&logo=typescript&logoColor=white&color=blue"></a> 
-     &emsp; 
-  <a href="https://www.w3.org/typescript/" target="_blank"> 
-   <img alt="tailwindcss" src="https://img.shields.io/badge/tailwindCss%20-%23E34F26.svg?style=flat&logo=tailwindcss&logoColor=blue&color=lightblue"></a> 
-      &emsp; 
-  <a href="https://www.w3.org/typescript/" target="_blank"> 
-   <img alt="sass" src="https://img.shields.io/badge/sass%20-%23E34F26.svg?style=flat&logo=sass&logoColor=white&color=pink"></a>
-      &emsp; 
-  <a href="https://www.w3.org/typescript/" target="_blank"> 
-   <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23E34F26.svg?style=flat&logo=bootstrap&logoColor=white&color=purple"></a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black">
+  </a>
+  &emsp;
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwindcss&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://sass-lang.com/" target="_blank">
+    <img alt="Sass" src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=flat&logo=sass&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white">
+  </a> 
 </p>
 
  ### <picture> <img src = "https://github.com/khaledrokaya/khaledrokaya/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat&logo=git&logoColor=white"></a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://github.com/" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"></a>
+  <a href="https://stackoverflow.com/" target="_blank">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=flat&logo=geeksforgeeks&logoColor=white"></a>
+  <a href="https://www.geeksforgeeks.org/" target="_blank">
+    <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=flat&logo=geeksforgeeks&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/sql server-%234479A1.svg?&style=flat&logoColor=white"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white">
+  </a>
 </p>
 
 ## <picture> <img src = "https://github.com/khaledrokaya/khaledrokaya/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
@@ -112,7 +131,7 @@
   </p>
 </details>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+<details><summary> <h3> 🏆 Git profile Trophies </h3></summary>
 
 ----
 	
